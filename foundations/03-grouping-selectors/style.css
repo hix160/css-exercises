@@ -1,0 +1,14 @@
+.firstbtn,
+.scndbtn {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', serif;
+}
+
+.firstbtn {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.scndbtn {
+    background-color: yellow;
+}
